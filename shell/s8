@@ -1,0 +1,7 @@
+echo "person Name:"
+read a
+echo "Company"
+read b
+echo "your name: $a,Company name: $b"
+echo "thankyou!"
+
